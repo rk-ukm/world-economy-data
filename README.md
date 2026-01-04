@@ -1,8 +1,8 @@
 # world-economy
 
-</br></br>
+</br>
 #### 👉 https://drive.google.com/file/d/11S69woIIgvSW_BeFjHphh1tfOxLl4cbZ/view?usp=sharing
-</br></br>
+</br>
 
 ### 1. 🌍 Inflation vs GDP Growth - And the relationship between prices and growth.
 
@@ -36,7 +36,7 @@ Japan → positive inflation but negative growth → stagflation risk</br>
 
 Interpretation:</br>
  Low inflation or deflation → Consumers delay spending → Economy slows → Growth becomes weak or negative.</br>
-</br></br>
+</br>
 #### 💬 🔥 What Our Scatter Plot Says in a Glimpse (Data 2024)</br>
 Countries with stable inflation grow steadily.</br>
 Countries with deflation or falling prices struggle.</br>
