@@ -25,7 +25,7 @@ sometimes high growth</br>
 sometimes negative growth.</br>
 
 Interpretation:</br>
- High inflation → uncertainty → unstable growth patterns.
+ High inflation → uncertainty → unstable growth patterns.</br>
 
 #### 🔸 C. Countries with Low or Negative Inflation Face Demand Problems</br>
 (ex: China, Japan - Data 2024)</br>
@@ -67,10 +67,10 @@ Japan, Europe → lower or sometimes negative growth</br>
 COVID years (2020–2021) → sharp volatility</br>
 
 💬 Meaning:</br>
-Economic growth is cyclical and heavily affected by global crises.</br>
+Economic growth is cyclical and heavily affected by global crises.</br></br>
 
-#### 🔹 Long-term GDP Growth Trend (1960–2024) — Line Chart</br></br>
-This is the “economic heartbeat” for 10 countries.</br></br>
+#### 🔹 Long-term GDP Growth Trend (1960–2024) — Line Chart</br>
+This is the “economic heartbeat” for 10 countries.</br>
 
 It shows:</br>
 USA: stable long-term growth </br>
