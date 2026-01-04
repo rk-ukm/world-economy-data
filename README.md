@@ -69,7 +69,7 @@ COVID years (2020–2021) → sharp volatility</br>
 💬 Meaning:</br>
 Economic growth is cyclical and heavily affected by global crises.</br>
 
-#### 🔹 Long-term GDP Growth Trend (1960–2024) — Line Chart</br>
+#### 🔹 Long-term GDP Growth Trend (1960–2024) — Line Chart</br></br>
 This is the “economic heartbeat” for 10 countries.</br></br>
 
 It shows:</br>
